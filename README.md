@@ -19,4 +19,4 @@ Gives you ideas when you're bored for MagicMirror
  
    BE aware that this is NOT a child friendly module!!!!
 
- ![alt tag](examples/us.png)  ![alt tag](examples/de.png) ![alt tag](examples/fr.png)  ![alt tag](examples/ar.png)  ![alt tag](examples/es.png)
+ ![alt tag](examples/en.png)  ![alt tag](examples/de.png) ![alt tag](examples/fr.png)  ![alt tag](examples/ar.png)  ![alt tag](examples/es.png)
