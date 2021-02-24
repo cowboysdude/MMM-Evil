@@ -1,0 +1,17 @@
+{
+  "name": "mmm-evil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MMM-Evil.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cowboysdude",
+  "license": "MIT",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^5.0.0"
+  }
+}
