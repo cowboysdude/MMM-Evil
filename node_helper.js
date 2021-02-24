@@ -33,7 +33,7 @@ module.exports = NodeHelper.create({
             }).catch(function(err) {
                 console.error("[MMM-Evil] Translation ERROR! Translation failed, will fall back to original language!");
                 console.error(JSON.stringify(err));
-                self.sendSocketNotification("FACT_RESULT", apiResponse.text);
+                self.sendSocketNotification("EVIL_RESULT", apiResponse.text);
             });
         } else {
             console.error("API Error: Wrong response code: "+response.statusCode);
