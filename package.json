@@ -12,6 +12,6 @@
   "author": "Cowboysdude",
   "license": "MIT",
   "dependencies": {
-    "@vitalets/google-translate-api": "^5.0.0"
+    "@vitalets/google-translate-api": "^9.0.0"
   }
 }
